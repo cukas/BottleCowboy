@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ace46afbc51cc674a9def01d6dbafa63
+timeCreated: 1504799064
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: dach_hp
+    100002: dach_lp
+    100004: Haus_hp
+    100006: Haus_lp
+    100008: Scheune_hp
+    100010: Scheune_lp
+    100012: Tafel_hp
+    100014: Tafel_lp
+    100016: "Tr\xE4ger_hp"
+    100018: "tr\xE4ger_lp"
+    100020: "tr\xE4ger_lp1"
+    100022: "tr\xE4ger_lp2"
+    100024: "tr\xE4ger_lp3"
+    100026: //RootNode
+    400000: dach_hp
+    400002: dach_lp
+    400004: Haus_hp
+    400006: Haus_lp
+    400008: Scheune_hp
+    400010: Scheune_lp
+    400012: Tafel_hp
+    400014: Tafel_lp
+    400016: "Tr\xE4ger_hp"
+    400018: "tr\xE4ger_lp"
+    400020: "tr\xE4ger_lp1"
+    400022: "tr\xE4ger_lp2"
+    400024: "tr\xE4ger_lp3"
+    400026: //RootNode
+    2300000: dach_hp
+    2300002: dach_lp
+    2300004: Haus_hp
+    2300006: Haus_lp
+    2300008: Tafel_hp
+    2300010: Tafel_lp
+    2300012: "Tr\xE4ger_hp"
+    2300014: "tr\xE4ger_lp"
+    2300016: "tr\xE4ger_lp1"
+    2300018: "tr\xE4ger_lp2"
+    2300020: "tr\xE4ger_lp3"
+    3300000: dach_hp
+    3300002: dach_lp
+    3300004: Haus_hp
+    3300006: Haus_lp
+    3300008: Tafel_hp
+    3300010: Tafel_lp
+    3300012: "Tr\xE4ger_hp"
+    3300014: "tr\xE4ger_lp"
+    3300016: "tr\xE4ger_lp1"
+    3300018: "tr\xE4ger_lp2"
+    3300020: "tr\xE4ger_lp3"
+    4300000: "Tr\xE4ger_hp"
+    4300002: Tafel_hp
+    4300004: Haus_hp
+    4300006: dach_hp
+    4300008: "tr\xE4ger_lp"
+    4300010: Tafel_lp
+    4300012: Haus_lp
+    4300014: dach_lp
+    4300016: "tr\xE4ger_lp1"
+    4300018: "tr\xE4ger_lp2"
+    4300020: "tr\xE4ger_lp3"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
